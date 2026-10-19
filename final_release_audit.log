@@ -1,0 +1,63 @@
+{
+  "all_passed": true,
+  "unit_tests_passed": 21,
+  "active_fixed_totals_reproduced": true,
+  "active_circuits": 120,
+  "active_gates": 8307,
+  "active_wrong_unique_pairs": 0,
+  "small_random_scalar_cases": 240,
+  "negative_controls_passed": 9,
+  "exhaustive_topological_circuits_1_to_4_gates": 22767,
+  "exhaustive_nonisomorphic_four_gate_topologies": 1296,
+  "exhaustive_labeled_four_gate_graphs": 7578,
+  "independent_scalar_blackbox_columns": 1808136,
+  "public_trace_cli": {
+    "passive_ambiguous": {
+      "status": "ambiguous_under_declared_NAND_DAG_model",
+      "unique_gates": 2,
+      "ambiguous_gates": 4
+    },
+    "active_exact": {
+      "status": "unique_under_declared_NAND_DAG_model",
+      "unique_gates": 6,
+      "ambiguous_gates": 0
+    }
+  },
+  "syntax_files_checked": 15,
+  "credential_pattern_scan": {
+    "files": 36,
+    "matches": 0,
+    "scope": "limited documented token patterns; not a comprehensive security audit"
+  },
+  "source_sha256": {
+    "active_lab.py": "30368a3f9eec86fc6263e71f5ac1f59353430c26569b909467f1264736a80dbb",
+    "audit_release.py": "c95af6f3f88ea83a8a6062eb59e97927d62de13e43cc9cc17ce6ea1587388ee7",
+    "baseline_generalization.py": "534d1a3715f1e94cab9591174b2fb89d2d877224642c414d0deb55c49a6cd31c",
+    "blackbox_lab.py": "35c1d6faf34800f55ae67ce3ecaf7be071ec39c10dd247bdcd7ce300fdf0002a",
+    "make_examples.py": "a5f038d265b75318dc92a03a902cd57fe825658241932a1f10616e53f03f25a8",
+    "make_publication_release.py": "ebae9ff9d2ae5dd08bba9553e4414e09fb6da60e553f6847680bbff17d2598c5",
+    "nand_reconstruct.py": "ae5af540570e625f5226ed8ba5c2ae331defcc24e8757fa7079cbb2bdb048ce0",
+    "original_blind_transistor_reconstruction.py": "717262103d46c3e3151864f4a4693fdbcd44867068c4e1904722a35057a325ae",
+    "passive_counts.py": "a5f7a85f8fecf60bea9b049f4ad0cb2995a6f615c711a81585a404283b1fe1a5",
+    "previous_acyclic_verifier.py": "71d2dafc1acc4754018e4cf7ced87245833ea6db4728162109e3e0c1e057cf74",
+    "run_active.py": "2c6329d149a4c58318e1cb3ab12a285a87fe85b9f281c4ce646fbdce460da903",
+    "run_blackbox.py": "02d647cd6b19ab8d2939c58514bc27fbb279cdc67434ee21daa30430836106f5",
+    "verify_active.py": "703a6815b83c0c6ca7cbde7955e154d1d9a5c7dae49e395284bc9bb3a0a797e5",
+    "verify_blackbox.py": "2df1a317fbadbf98d8c62ecb5545eeaeaea97299abc8d3cc26a97f7fc3504dac",
+    "tests/test_public_api.py": "a191b06c43daea9457b6416e6c26b4378a34d0e36818aa676f6b4c398d4ee29f"
+  },
+  "local_environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+    "site_packages_disabled": true
+  },
+  "github_ci": "configuration prepared for Linux/Windows and Python 3.10/3.12; remote workflow not run",
+  "publication_assessment": {
+    "research_prototype": "ready for a candidate v0.1.0 publication",
+    "production_hardware_tool": "not established",
+    "scientific_novelty": "not established",
+    "hardware_measurements": false,
+    "external_repository_published": false
+  },
+  "seconds": 0.2813540119998379
+}

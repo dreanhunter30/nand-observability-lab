@@ -1,0 +1,127 @@
+{
+  "random_small": {
+    "circuits": 240,
+    "gates": 1215,
+    "scalar_isolation_columns": 13345,
+    "scalar_intervention_columns": 9600,
+    "forced_target_exclusion_checks": 1211
+  },
+  "passive_counterexample": {
+    "all_9_passive_signals_distinct": true,
+    "both_graphs_have_same_control_counts": true,
+    "ordinary_assignments_compared": 8,
+    "active_scenarios_compared": 144,
+    "distinguishing_active_scenarios": 12,
+    "examples": [
+      {
+        "assignment": 0,
+        "forced": [
+          [
+            "S2",
+            0
+          ]
+        ],
+        "different_nodes": [
+          "S5"
+        ]
+      },
+      {
+        "assignment": 0,
+        "forced": [
+          [
+            "S3",
+            1
+          ]
+        ],
+        "different_nodes": [
+          "S5"
+        ]
+      }
+    ],
+    "isolation_recovers_true_graph": true
+  },
+  "negative_controls": [
+    {
+      "control": "wrong_gate_AND",
+      "rejected": true,
+      "certified": false,
+      "reason": "gate_or_sensor_model_mismatch",
+      "rejected_gates": 1
+    },
+    {
+      "control": "wrong_gate_OR",
+      "rejected": true,
+      "certified": false,
+      "reason": "gate_or_sensor_model_mismatch",
+      "rejected_gates": 1
+    },
+    {
+      "control": "wrong_gate_XOR",
+      "rejected": true,
+      "certified": false,
+      "reason": "gate_or_sensor_model_mismatch",
+      "rejected_gates": 1
+    },
+    {
+      "control": "sensor_stuck_zero",
+      "rejected": true,
+      "certified": false,
+      "reason": "gate_or_sensor_model_mismatch",
+      "rejected_gates": 1
+    },
+    {
+      "control": "sensor_stuck_one",
+      "rejected": true,
+      "certified": false,
+      "reason": "gate_or_sensor_model_mismatch",
+      "rejected_gates": 1
+    },
+    {
+      "control": "sensor_inverted",
+      "rejected": true,
+      "certified": false,
+      "reason": "gate_or_sensor_model_mismatch",
+      "rejected_gates": 1
+    },
+    {
+      "control": "failed_actuator_with_readback",
+      "rejected": true,
+      "readback_mismatch_scenarios": 10,
+      "certified": false,
+      "reason": "actuation_readback_mismatch",
+      "rejected_gates": 3
+    },
+    {
+      "control": "insufficient_actuator_access",
+      "rejected": true,
+      "reason": "Full isolation requires actuator access to every internal node"
+    },
+    {
+      "control": "cyclic_reconstruction",
+      "rejected": true,
+      "certified": false,
+      "reason": "reconstructed_graph_has_cycle",
+      "rejected_gates": 2
+    }
+  ],
+  "probability_math": {
+    "independent_exact_majority_enumerations": 5,
+    "all_repeat_counts_minimal_for_predeclared_bound": true,
+    "bernoulli_sampler_sanity": {
+      "trials": 100000,
+      "expected_errors": 3000,
+      "observed_errors": 3002
+    }
+  },
+  "persisted_results": {
+    "main_circuits": 120,
+    "scale_circuits": 2,
+    "result_rows": 720,
+    "unique_pair_claims_checked": 45897,
+    "holdout_scalar_internal_values_checked": 2290432,
+    "old_baseline_exactly_reproduced": true,
+    "public_schedule_hashes_verified": true
+  },
+  "all_passed": true,
+  "seconds": 2.516788528999996
+}

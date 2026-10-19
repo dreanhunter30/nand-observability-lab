@@ -1,0 +1,28 @@
+{
+  "spaces": [
+    {
+      "inputs": 2,
+      "exhaustive_topological_circuits": 2901,
+      "nonisomorphic_four_gate_topologies": 252,
+      "labeled_graphs_checked": 1458,
+      "scalar_intervention_columns": 192456,
+      "all_five_observation_partitions_reproduced": true,
+      "independent_adjacency_matrix_isomorphism": true,
+      "minimum_AND_gate_count": 2,
+      "different_AND_topologies": 17
+    },
+    {
+      "inputs": 3,
+      "exhaustive_topological_circuits": 19866,
+      "nonisomorphic_four_gate_topologies": 1044,
+      "labeled_graphs_checked": 6120,
+      "scalar_intervention_columns": 1615680,
+      "all_five_observation_partitions_reproduced": true,
+      "independent_adjacency_matrix_isomorphism": true,
+      "minimum_AND_gate_count": 4,
+      "different_AND_topologies": 6
+    }
+  ],
+  "all_passed": true,
+  "seconds": 4.007756049999898
+}

@@ -1,0 +1,26 @@
+test_invalid_isolation_shapes_rejected (test_public_api.IsolationAndProbabilityTests.test_invalid_isolation_shapes_rejected) ... ok
+test_noise_sampler_rejects_invalid_channel (test_public_api.IsolationAndProbabilityTests.test_noise_sampler_rejects_invalid_channel) ... ok
+test_probability_validation (test_public_api.IsolationAndProbabilityTests.test_probability_validation) ... ok
+test_tied_pair_isolation_and_access (test_public_api.IsolationAndProbabilityTests.test_tied_pair_isolation_and_access) ... ok
+test_active_fixture_exact_without_MOS_or_truth (test_public_api.PublicObservationTests.test_active_fixture_exact_without_MOS_or_truth) ... ok
+test_anonymous_channel_permutation_preserves_result (test_public_api.PublicObservationTests.test_anonymous_channel_permutation_preserves_result) ... ok
+test_cli_stdin_and_error_status (test_public_api.PublicObservationTests.test_cli_stdin_and_error_status) ... ok
+test_duplicate_JSON_keys_rejected (test_public_api.PublicObservationTests.test_duplicate_JSON_keys_rejected) ... ok
+test_duplicate_node_or_overlap_rejected (test_public_api.PublicObservationTests.test_duplicate_node_or_overlap_rejected) ... ok
+test_empty_experiments_rejected (test_public_api.PublicObservationTests.test_empty_experiments_rejected) ... ok
+test_forced_output_not_tested_against_NAND_relation (test_public_api.PublicObservationTests.test_forced_output_not_tested_against_NAND_relation) ... ok
+test_hidden_wiring_field_rejected (test_public_api.PublicObservationTests.test_hidden_wiring_field_rejected) ... ok
+test_inference_runs_with_private_generators_disabled (test_public_api.PublicObservationTests.test_inference_runs_with_private_generators_disabled) ... ok
+test_missing_sensor_rejected (test_public_api.PublicObservationTests.test_missing_sensor_rejected) ... ok
+test_nonbinary_rejected (test_public_api.PublicObservationTests.test_nonbinary_rejected) ... ok
+test_passive_fixture_preserves_ambiguity (test_public_api.PublicObservationTests.test_passive_fixture_preserves_ambiguity) ... ok
+test_primary_input_order_does_not_change_named_inference (test_public_api.PublicObservationTests.test_primary_input_order_does_not_change_named_inference) ... ok
+test_readback_mismatch_rejected (test_public_api.PublicObservationTests.test_readback_mismatch_rejected) ... ok
+test_record_order_does_not_change_candidates (test_public_api.PublicObservationTests.test_record_order_does_not_change_candidates) ... ok
+test_unknown_forced_node_rejected (test_public_api.PublicObservationTests.test_unknown_forced_node_rejected) ... ok
+test_wrong_format_rejected (test_public_api.PublicObservationTests.test_wrong_format_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.146s
+
+OK

@@ -1,0 +1,331 @@
+001/120 original_50 parity_mix 2026101700: {'passive_counts': 58, 'single_full_access': 58, 'pair_full_access': 58, 'single_half_access': 58, 'pair_half_access': 58, 'isolated_full_access': 58}
+002/120 original_50 parity_mix 2026101701: {'passive_counts': 52, 'single_full_access': 62, 'pair_full_access': 62, 'single_half_access': 60, 'pair_half_access': 61, 'isolated_full_access': 62}
+003/120 original_50 parity_mix 2026101702: {'passive_counts': 60, 'single_full_access': 60, 'pair_full_access': 60, 'single_half_access': 60, 'pair_half_access': 60, 'isolated_full_access': 60}
+004/120 original_50 parity_mix 2026101703: {'passive_counts': 54, 'single_full_access': 54, 'pair_full_access': 54, 'single_half_access': 54, 'pair_half_access': 54, 'isolated_full_access': 54}
+005/120 original_50 parity_mix 2026101704: {'passive_counts': 53, 'single_full_access': 62, 'pair_full_access': 62, 'single_half_access': 62, 'pair_half_access': 62, 'isolated_full_access': 62}
+006/120 original_50 parity_mix 2026101705: {'passive_counts': 52, 'single_full_access': 54, 'pair_full_access': 54, 'single_half_access': 54, 'pair_half_access': 54, 'isolated_full_access': 54}
+007/120 original_50 parity_mix 2026101706: {'passive_counts': 52, 'single_full_access': 60, 'pair_full_access': 60, 'single_half_access': 60, 'pair_half_access': 60, 'isolated_full_access': 60}
+008/120 original_50 parity_mix 2026101707: {'passive_counts': 49, 'single_full_access': 58, 'pair_full_access': 58, 'single_half_access': 57, 'pair_half_access': 57, 'isolated_full_access': 58}
+009/120 original_50 parity_mix 2026101708: {'passive_counts': 52, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 56, 'pair_half_access': 56, 'isolated_full_access': 56}
+010/120 original_50 parity_mix 2026101709: {'passive_counts': 54, 'single_full_access': 58, 'pair_full_access': 58, 'single_half_access': 58, 'pair_half_access': 58, 'isolated_full_access': 58}
+011/120 original_50 mux_bank 2026101800: {'passive_counts': 57, 'single_full_access': 83, 'pair_full_access': 84, 'single_half_access': 72, 'pair_half_access': 72, 'isolated_full_access': 84}
+012/120 original_50 mux_bank 2026101801: {'passive_counts': 37, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 48, 'pair_half_access': 49, 'isolated_full_access': 56}
+013/120 original_50 mux_bank 2026101802: {'passive_counts': 42, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 56}
+014/120 original_50 mux_bank 2026101803: {'passive_counts': 63, 'single_full_access': 84, 'pair_full_access': 84, 'single_half_access': 71, 'pair_half_access': 73, 'isolated_full_access': 84}
+015/120 original_50 mux_bank 2026101804: {'passive_counts': 60, 'single_full_access': 83, 'pair_full_access': 84, 'single_half_access': 71, 'pair_half_access': 72, 'isolated_full_access': 84}
+016/120 original_50 mux_bank 2026101805: {'passive_counts': 56, 'single_full_access': 81, 'pair_full_access': 84, 'single_half_access': 71, 'pair_half_access': 73, 'isolated_full_access': 84}
+017/120 original_50 mux_bank 2026101806: {'passive_counts': 63, 'single_full_access': 84, 'pair_full_access': 84, 'single_half_access': 71, 'pair_half_access': 72, 'isolated_full_access': 84}
+018/120 original_50 mux_bank 2026101807: {'passive_counts': 42, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 48, 'pair_half_access': 49, 'isolated_full_access': 56}
+019/120 original_50 mux_bank 2026101808: {'passive_counts': 37, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 48, 'pair_half_access': 48, 'isolated_full_access': 56}
+020/120 original_50 mux_bank 2026101809: {'passive_counts': 56, 'single_full_access': 84, 'pair_full_access': 84, 'single_half_access': 72, 'pair_half_access': 72, 'isolated_full_access': 84}
+021/120 original_50 equality_compare 2026101900: {'passive_counts': 28, 'single_full_access': 83, 'pair_full_access': 83, 'single_half_access': 73, 'pair_half_access': 73, 'isolated_full_access': 83}
+022/120 original_50 equality_compare 2026101901: {'passive_counts': 33, 'single_full_access': 98, 'pair_full_access': 98, 'single_half_access': 80, 'pair_half_access': 83, 'isolated_full_access': 98}
+023/120 original_50 equality_compare 2026101902: {'passive_counts': 38, 'single_full_access': 113, 'pair_full_access': 113, 'single_half_access': 99, 'pair_half_access': 99, 'isolated_full_access': 113}
+024/120 original_50 equality_compare 2026101903: {'passive_counts': 33, 'single_full_access': 98, 'pair_full_access': 98, 'single_half_access': 85, 'pair_half_access': 86, 'isolated_full_access': 98}
+025/120 original_50 equality_compare 2026101904: {'passive_counts': 33, 'single_full_access': 98, 'pair_full_access': 98, 'single_half_access': 75, 'pair_half_access': 78, 'isolated_full_access': 98}
+026/120 original_50 equality_compare 2026101905: {'passive_counts': 38, 'single_full_access': 113, 'pair_full_access': 113, 'single_half_access': 97, 'pair_half_access': 97, 'isolated_full_access': 113}
+027/120 original_50 equality_compare 2026101906: {'passive_counts': 33, 'single_full_access': 98, 'pair_full_access': 98, 'single_half_access': 86, 'pair_half_access': 90, 'isolated_full_access': 98}
+028/120 original_50 equality_compare 2026101907: {'passive_counts': 33, 'single_full_access': 98, 'pair_full_access': 98, 'single_half_access': 89, 'pair_half_access': 89, 'isolated_full_access': 98}
+029/120 original_50 equality_compare 2026101908: {'passive_counts': 37, 'single_full_access': 113, 'pair_full_access': 113, 'single_half_access': 104, 'pair_half_access': 104, 'isolated_full_access': 113}
+030/120 original_50 equality_compare 2026101909: {'passive_counts': 28, 'single_full_access': 83, 'pair_full_access': 83, 'single_half_access': 76, 'pair_half_access': 77, 'isolated_full_access': 83}
+031/120 original_50 enabled_decoder 2026102000: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 49, 'pair_half_access': 49, 'isolated_full_access': 51}
+032/120 original_50 enabled_decoder 2026102001: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+033/120 original_50 enabled_decoder 2026102002: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+034/120 original_50 enabled_decoder 2026102003: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+035/120 original_50 enabled_decoder 2026102004: {'passive_counts': 43, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+036/120 original_50 enabled_decoder 2026102005: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+037/120 original_50 enabled_decoder 2026102006: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+038/120 original_50 enabled_decoder 2026102007: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 47, 'pair_half_access': 47, 'isolated_full_access': 51}
+039/120 original_50 enabled_decoder 2026102008: {'passive_counts': 43, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+040/120 original_50 enabled_decoder 2026102009: {'passive_counts': 45, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+041/120 original_50 random_nand_dag 2026102100: {'passive_counts': 66, 'single_full_access': 76, 'pair_full_access': 76, 'single_half_access': 76, 'pair_half_access': 76, 'isolated_full_access': 76}
+042/120 original_50 random_nand_dag 2026102101: {'passive_counts': 63, 'single_full_access': 64, 'pair_full_access': 64, 'single_half_access': 64, 'pair_half_access': 64, 'isolated_full_access': 64}
+043/120 original_50 random_nand_dag 2026102102: {'passive_counts': 66, 'single_full_access': 76, 'pair_full_access': 76, 'single_half_access': 72, 'pair_half_access': 72, 'isolated_full_access': 76}
+044/120 original_50 random_nand_dag 2026102103: {'passive_counts': 62, 'single_full_access': 62, 'pair_full_access': 62, 'single_half_access': 62, 'pair_half_access': 62, 'isolated_full_access': 62}
+045/120 original_50 random_nand_dag 2026102104: {'passive_counts': 52, 'single_full_access': 70, 'pair_full_access': 70, 'single_half_access': 60, 'pair_half_access': 60, 'isolated_full_access': 70}
+046/120 original_50 random_nand_dag 2026102105: {'passive_counts': 61, 'single_full_access': 61, 'pair_full_access': 61, 'single_half_access': 61, 'pair_half_access': 61, 'isolated_full_access': 61}
+047/120 original_50 random_nand_dag 2026102106: {'passive_counts': 57, 'single_full_access': 75, 'pair_full_access': 75, 'single_half_access': 70, 'pair_half_access': 70, 'isolated_full_access': 75}
+048/120 original_50 random_nand_dag 2026102107: {'passive_counts': 55, 'single_full_access': 64, 'pair_full_access': 64, 'single_half_access': 61, 'pair_half_access': 61, 'isolated_full_access': 64}
+049/120 original_50 random_nand_dag 2026102108: {'passive_counts': 68, 'single_full_access': 72, 'pair_full_access': 72, 'single_half_access': 72, 'pair_half_access': 72, 'isolated_full_access': 72}
+050/120 original_50 random_nand_dag 2026102109: {'passive_counts': 66, 'single_full_access': 74, 'pair_full_access': 74, 'single_half_access': 69, 'pair_half_access': 71, 'isolated_full_access': 74}
+051/120 new_50 parity_mix 2027101700: {'passive_counts': 50, 'single_full_access': 60, 'pair_full_access': 60, 'single_half_access': 58, 'pair_half_access': 58, 'isolated_full_access': 60}
+052/120 new_50 parity_mix 2027101701: {'passive_counts': 62, 'single_full_access': 62, 'pair_full_access': 62, 'single_half_access': 62, 'pair_half_access': 62, 'isolated_full_access': 62}
+053/120 new_50 parity_mix 2027101702: {'passive_counts': 62, 'single_full_access': 62, 'pair_full_access': 62, 'single_half_access': 62, 'pair_half_access': 62, 'isolated_full_access': 62}
+054/120 new_50 parity_mix 2027101703: {'passive_counts': 51, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 55, 'pair_half_access': 55, 'isolated_full_access': 56}
+055/120 new_50 parity_mix 2027101704: {'passive_counts': 50, 'single_full_access': 60, 'pair_full_access': 60, 'single_half_access': 54, 'pair_half_access': 54, 'isolated_full_access': 60}
+056/120 new_50 parity_mix 2027101705: {'passive_counts': 56, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 56, 'pair_half_access': 56, 'isolated_full_access': 56}
+057/120 new_50 parity_mix 2027101706: {'passive_counts': 50, 'single_full_access': 54, 'pair_full_access': 54, 'single_half_access': 53, 'pair_half_access': 53, 'isolated_full_access': 54}
+058/120 new_50 parity_mix 2027101707: {'passive_counts': 48, 'single_full_access': 54, 'pair_full_access': 54, 'single_half_access': 54, 'pair_half_access': 54, 'isolated_full_access': 54}
+059/120 new_50 parity_mix 2027101708: {'passive_counts': 50, 'single_full_access': 58, 'pair_full_access': 58, 'single_half_access': 58, 'pair_half_access': 58, 'isolated_full_access': 58}
+060/120 new_50 parity_mix 2027101709: {'passive_counts': 52, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 56, 'pair_half_access': 56, 'isolated_full_access': 56}
+061/120 new_50 mux_bank 2027101800: {'passive_counts': 42, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 46, 'pair_half_access': 47, 'isolated_full_access': 56}
+062/120 new_50 mux_bank 2027101801: {'passive_counts': 42, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 49, 'pair_half_access': 50, 'isolated_full_access': 56}
+063/120 new_50 mux_bank 2027101802: {'passive_counts': 57, 'single_full_access': 83, 'pair_full_access': 84, 'single_half_access': 67, 'pair_half_access': 68, 'isolated_full_access': 84}
+064/120 new_50 mux_bank 2027101803: {'passive_counts': 42, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 50, 'pair_half_access': 50, 'isolated_full_access': 56}
+065/120 new_50 mux_bank 2027101804: {'passive_counts': 60, 'single_full_access': 83, 'pair_full_access': 84, 'single_half_access': 74, 'pair_half_access': 74, 'isolated_full_access': 84}
+066/120 new_50 mux_bank 2027101805: {'passive_counts': 42, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 53, 'pair_half_access': 54, 'isolated_full_access': 56}
+067/120 new_50 mux_bank 2027101806: {'passive_counts': 42, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 47, 'pair_half_access': 48, 'isolated_full_access': 56}
+068/120 new_50 mux_bank 2027101807: {'passive_counts': 55, 'single_full_access': 84, 'pair_full_access': 84, 'single_half_access': 71, 'pair_half_access': 72, 'isolated_full_access': 84}
+069/120 new_50 mux_bank 2027101808: {'passive_counts': 52, 'single_full_access': 83, 'pair_full_access': 84, 'single_half_access': 69, 'pair_half_access': 70, 'isolated_full_access': 84}
+070/120 new_50 mux_bank 2027101809: {'passive_counts': 63, 'single_full_access': 84, 'pair_full_access': 84, 'single_half_access': 74, 'pair_half_access': 74, 'isolated_full_access': 84}
+071/120 new_50 equality_compare 2027101900: {'passive_counts': 38, 'single_full_access': 113, 'pair_full_access': 113, 'single_half_access': 97, 'pair_half_access': 101, 'isolated_full_access': 113}
+072/120 new_50 equality_compare 2027101901: {'passive_counts': 33, 'single_full_access': 98, 'pair_full_access': 98, 'single_half_access': 85, 'pair_half_access': 89, 'isolated_full_access': 98}
+073/120 new_50 equality_compare 2027101902: {'passive_counts': 28, 'single_full_access': 83, 'pair_full_access': 83, 'single_half_access': 67, 'pair_half_access': 68, 'isolated_full_access': 83}
+074/120 new_50 equality_compare 2027101903: {'passive_counts': 33, 'single_full_access': 96, 'pair_full_access': 98, 'single_half_access': 90, 'pair_half_access': 90, 'isolated_full_access': 98}
+075/120 new_50 equality_compare 2027101904: {'passive_counts': 33, 'single_full_access': 98, 'pair_full_access': 98, 'single_half_access': 86, 'pair_half_access': 86, 'isolated_full_access': 98}
+076/120 new_50 equality_compare 2027101905: {'passive_counts': 38, 'single_full_access': 113, 'pair_full_access': 113, 'single_half_access': 99, 'pair_half_access': 99, 'isolated_full_access': 113}
+077/120 new_50 equality_compare 2027101906: {'passive_counts': 38, 'single_full_access': 113, 'pair_full_access': 113, 'single_half_access': 92, 'pair_half_access': 92, 'isolated_full_access': 113}
+078/120 new_50 equality_compare 2027101907: {'passive_counts': 33, 'single_full_access': 98, 'pair_full_access': 98, 'single_half_access': 87, 'pair_half_access': 87, 'isolated_full_access': 98}
+079/120 new_50 equality_compare 2027101908: {'passive_counts': 28, 'single_full_access': 83, 'pair_full_access': 83, 'single_half_access': 77, 'pair_half_access': 77, 'isolated_full_access': 83}
+080/120 new_50 equality_compare 2027101909: {'passive_counts': 28, 'single_full_access': 83, 'pair_full_access': 83, 'single_half_access': 69, 'pair_half_access': 70, 'isolated_full_access': 83}
+081/120 new_50 enabled_decoder 2027102000: {'passive_counts': 43, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 49, 'pair_half_access': 49, 'isolated_full_access': 51}
+082/120 new_50 enabled_decoder 2027102001: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 49, 'pair_half_access': 49, 'isolated_full_access': 51}
+083/120 new_50 enabled_decoder 2027102002: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+084/120 new_50 enabled_decoder 2027102003: {'passive_counts': 43, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 46, 'pair_half_access': 46, 'isolated_full_access': 51}
+085/120 new_50 enabled_decoder 2027102004: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+086/120 new_50 enabled_decoder 2027102005: {'passive_counts': 43, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+087/120 new_50 enabled_decoder 2027102006: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 48, 'pair_half_access': 49, 'isolated_full_access': 51}
+088/120 new_50 enabled_decoder 2027102007: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 51, 'pair_half_access': 51, 'isolated_full_access': 51}
+089/120 new_50 enabled_decoder 2027102008: {'passive_counts': 43, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 50, 'pair_half_access': 50, 'isolated_full_access': 51}
+090/120 new_50 enabled_decoder 2027102009: {'passive_counts': 47, 'single_full_access': 51, 'pair_full_access': 51, 'single_half_access': 50, 'pair_half_access': 50, 'isolated_full_access': 51}
+091/120 new_50 random_nand_dag 2027102100: {'passive_counts': 61, 'single_full_access': 61, 'pair_full_access': 61, 'single_half_access': 61, 'pair_half_access': 61, 'isolated_full_access': 61}
+092/120 new_50 random_nand_dag 2027102101: {'passive_counts': 67, 'single_full_access': 70, 'pair_full_access': 70, 'single_half_access': 70, 'pair_half_access': 70, 'isolated_full_access': 70}
+093/120 new_50 random_nand_dag 2027102102: {'passive_counts': 47, 'single_full_access': 60, 'pair_full_access': 60, 'single_half_access': 60, 'pair_half_access': 60, 'isolated_full_access': 60}
+094/120 new_50 random_nand_dag 2027102103: {'passive_counts': 65, 'single_full_access': 74, 'pair_full_access': 74, 'single_half_access': 72, 'pair_half_access': 72, 'isolated_full_access': 74}
+095/120 new_50 random_nand_dag 2027102104: {'passive_counts': 57, 'single_full_access': 58, 'pair_full_access': 58, 'single_half_access': 57, 'pair_half_access': 57, 'isolated_full_access': 58}
+096/120 new_50 random_nand_dag 2027102105: {'passive_counts': 64, 'single_full_access': 70, 'pair_full_access': 70, 'single_half_access': 70, 'pair_half_access': 70, 'isolated_full_access': 70}
+097/120 new_50 random_nand_dag 2027102106: {'passive_counts': 62, 'single_full_access': 72, 'pair_full_access': 73, 'single_half_access': 66, 'pair_half_access': 68, 'isolated_full_access': 73}
+098/120 new_50 random_nand_dag 2027102107: {'passive_counts': 56, 'single_full_access': 56, 'pair_full_access': 56, 'single_half_access': 56, 'pair_half_access': 56, 'isolated_full_access': 56}
+099/120 new_50 random_nand_dag 2027102108: {'passive_counts': 66, 'single_full_access': 78, 'pair_full_access': 78, 'single_half_access': 78, 'pair_half_access': 78, 'isolated_full_access': 78}
+100/120 new_50 random_nand_dag 2027102109: {'passive_counts': 51, 'single_full_access': 60, 'pair_full_access': 60, 'single_half_access': 60, 'pair_half_access': 60, 'isolated_full_access': 60}
+101/120 hard_20 constant_blocks 2029000000: {'passive_counts': 8, 'single_full_access': 24, 'pair_full_access': 32, 'single_half_access': 13, 'pair_half_access': 13, 'isolated_full_access': 32}
+102/120 hard_20 constant_blocks 2029000001: {'passive_counts': 8, 'single_full_access': 24, 'pair_full_access': 32, 'single_half_access': 11, 'pair_half_access': 13, 'isolated_full_access': 32}
+103/120 hard_20 constant_blocks 2029000002: {'passive_counts': 8, 'single_full_access': 24, 'pair_full_access': 32, 'single_half_access': 11, 'pair_half_access': 17, 'isolated_full_access': 32}
+104/120 hard_20 constant_blocks 2029000003: {'passive_counts': 8, 'single_full_access': 24, 'pair_full_access': 32, 'single_half_access': 12, 'pair_half_access': 15, 'isolated_full_access': 32}
+105/120 hard_20 constant_blocks 2029000004: {'passive_counts': 8, 'single_full_access': 24, 'pair_full_access': 32, 'single_half_access': 12, 'pair_half_access': 14, 'isolated_full_access': 32}
+106/120 hard_20 cloned_sources 2029000100: {'passive_counts': 12, 'single_full_access': 32, 'pair_full_access': 32, 'single_half_access': 19, 'pair_half_access': 19, 'isolated_full_access': 32}
+107/120 hard_20 cloned_sources 2029000101: {'passive_counts': 12, 'single_full_access': 32, 'pair_full_access': 32, 'single_half_access': 15, 'pair_half_access': 15, 'isolated_full_access': 32}
+108/120 hard_20 cloned_sources 2029000102: {'passive_counts': 12, 'single_full_access': 32, 'pair_full_access': 32, 'single_half_access': 16, 'pair_half_access': 16, 'isolated_full_access': 32}
+109/120 hard_20 cloned_sources 2029000103: {'passive_counts': 12, 'single_full_access': 32, 'pair_full_access': 32, 'single_half_access': 13, 'pair_half_access': 13, 'isolated_full_access': 32}
+110/120 hard_20 cloned_sources 2029000104: {'passive_counts': 12, 'single_full_access': 32, 'pair_full_access': 32, 'single_half_access': 19, 'pair_half_access': 19, 'isolated_full_access': 32}
+111/120 hard_20 deep_chain 2029000200: {'passive_counts': 116, 'single_full_access': 128, 'pair_full_access': 128, 'single_half_access': 124, 'pair_half_access': 124, 'isolated_full_access': 128}
+112/120 hard_20 deep_chain 2029000201: {'passive_counts': 122, 'single_full_access': 128, 'pair_full_access': 128, 'single_half_access': 128, 'pair_half_access': 128, 'isolated_full_access': 128}
+113/120 hard_20 deep_chain 2029000202: {'passive_counts': 124, 'single_full_access': 128, 'pair_full_access': 128, 'single_half_access': 128, 'pair_half_access': 128, 'isolated_full_access': 128}
+114/120 hard_20 deep_chain 2029000203: {'passive_counts': 116, 'single_full_access': 128, 'pair_full_access': 128, 'single_half_access': 124, 'pair_half_access': 124, 'isolated_full_access': 128}
+115/120 hard_20 deep_chain 2029000204: {'passive_counts': 103, 'single_full_access': 128, 'pair_full_access': 128, 'single_half_access': 125, 'pair_half_access': 128, 'isolated_full_access': 128}
+116/120 hard_20 reconvergent 2029000300: {'passive_counts': 67, 'single_full_access': 82, 'pair_full_access': 82, 'single_half_access': 78, 'pair_half_access': 78, 'isolated_full_access': 82}
+117/120 hard_20 reconvergent 2029000301: {'passive_counts': 49, 'single_full_access': 82, 'pair_full_access': 82, 'single_half_access': 82, 'pair_half_access': 82, 'isolated_full_access': 82}
+118/120 hard_20 reconvergent 2029000302: {'passive_counts': 68, 'single_full_access': 82, 'pair_full_access': 82, 'single_half_access': 82, 'pair_half_access': 82, 'isolated_full_access': 82}
+119/120 hard_20 reconvergent 2029000303: {'passive_counts': 56, 'single_full_access': 82, 'pair_full_access': 82, 'single_half_access': 82, 'pair_half_access': 82, 'isolated_full_access': 82}
+120/120 hard_20 reconvergent 2029000304: {'passive_counts': 38, 'single_full_access': 82, 'pair_full_access': 82, 'single_half_access': 76, 'pair_half_access': 78, 'isolated_full_access': 82}
+SCALE 128: True, 18560 queries
+SCALE 512: True, 270848 queries
+{
+  "overall": {
+    "isolated_full_access": {
+      "circuits": 120,
+      "gates": 8307,
+      "correct_unique": 8307,
+      "fraction_correct_unique": 1.0,
+      "whole_exact": 120,
+      "wrong_unique": 0,
+      "ambiguous": 0,
+      "no_match": 0,
+      "incremental_queries": 758546,
+      "cumulative_queries": 758546,
+      "seconds": 0.33518385899924397
+    },
+    "pair_full_access": {
+      "circuits": 120,
+      "gates": 8307,
+      "correct_unique": 8307,
+      "fraction_correct_unique": 1.0,
+      "whole_exact": 120,
+      "wrong_unique": 0,
+      "ambiguous": 0,
+      "no_match": 0,
+      "incremental_queries": 648,
+      "cumulative_queries": 79600,
+      "seconds": 0.06319851599960202
+    },
+    "pair_half_access": {
+      "circuits": 120,
+      "gates": 8307,
+      "correct_unique": 7631,
+      "fraction_correct_unique": 0.918622848200313,
+      "whole_exact": 44,
+      "wrong_unique": 0,
+      "ambiguous": 676,
+      "no_match": 0,
+      "incremental_queries": 564,
+      "cumulative_queries": 46148,
+      "seconds": 0.366132778999372
+    },
+    "passive_counts": {
+      "circuits": 120,
+      "gates": 8307,
+      "correct_unique": 5826,
+      "fraction_correct_unique": 0.701336222462983,
+      "whole_exact": 10,
+      "wrong_unique": 0,
+      "ambiguous": 2481,
+      "no_match": 0,
+      "incremental_queries": 0,
+      "cumulative_queries": 0,
+      "seconds": 3.68125225100016
+    },
+    "single_full_access": {
+      "circuits": 120,
+      "gates": 8307,
+      "correct_unique": 8256,
+      "fraction_correct_unique": 0.9938605994944023,
+      "whole_exact": 107,
+      "wrong_unique": 0,
+      "ambiguous": 51,
+      "no_match": 0,
+      "incremental_queries": 78952,
+      "cumulative_queries": 78952,
+      "seconds": 1.2063926850007647
+    },
+    "single_half_access": {
+      "circuits": 120,
+      "gates": 8307,
+      "correct_unique": 7570,
+      "fraction_correct_unique": 0.9112796436740098,
+      "whole_exact": 43,
+      "wrong_unique": 0,
+      "ambiguous": 737,
+      "no_match": 0,
+      "incremental_queries": 45584,
+      "cumulative_queries": 45584,
+      "seconds": 1.1518690160005463
+    }
+  },
+  "noise": {
+    "scope": "120 main circuits plus both scale references",
+    "total_logical_queries": 1047954,
+    "cases": [
+      {
+        "physical_bit_error_probability": 0.01,
+        "mode": "single_read",
+        "repeats": 1,
+        "effective_logical_bit_error_probability": 0.01,
+        "logical_queries": 1047954,
+        "raw_output_readouts": 1047954,
+        "family_wise_union_bound": 1.0,
+        "required_bound": null,
+        "circuits": 122,
+        "gates": 8947,
+        "correct_decoded_pairs": 3478,
+        "wrong_decoded_pairs": 794,
+        "rejected_gates": 4675,
+        "whole_exact_circuits": 0,
+        "locally_model_consistent_circuits": 0,
+        "effective_readout_errors_sampled": 10426,
+        "simulation": "exact equivalent IID channel after majority; no explicit repeated raw draws",
+        "assumptions": "known IID p; perfect actuation, readback, and stable NAND response"
+      },
+      {
+        "physical_bit_error_probability": 0.01,
+        "mode": "calibrated_majority",
+        "repeats": 15,
+        "effective_logical_bit_error_probability": 6.045248493209707e-13,
+        "logical_queries": 1047954,
+        "raw_output_readouts": 15719310,
+        "family_wise_union_bound": 6.335142339453085e-07,
+        "required_bound": 1e-06,
+        "circuits": 122,
+        "gates": 8947,
+        "correct_decoded_pairs": 8947,
+        "wrong_decoded_pairs": 0,
+        "rejected_gates": 0,
+        "whole_exact_circuits": 122,
+        "locally_model_consistent_circuits": 122,
+        "effective_readout_errors_sampled": 0,
+        "simulation": "exact equivalent IID channel after majority; no explicit repeated raw draws",
+        "assumptions": "known IID p; perfect actuation, readback, and stable NAND response"
+      },
+      {
+        "physical_bit_error_probability": 0.05,
+        "mode": "single_read",
+        "repeats": 1,
+        "effective_logical_bit_error_probability": 0.05,
+        "logical_queries": 1047954,
+        "raw_output_readouts": 1047954,
+        "family_wise_union_bound": 1.0,
+        "required_bound": null,
+        "circuits": 122,
+        "gates": 8947,
+        "correct_decoded_pairs": 146,
+        "wrong_decoded_pairs": 218,
+        "rejected_gates": 8583,
+        "whole_exact_circuits": 0,
+        "locally_model_consistent_circuits": 0,
+        "effective_readout_errors_sampled": 52312,
+        "simulation": "exact equivalent IID channel after majority; no explicit repeated raw draws",
+        "assumptions": "known IID p; perfect actuation, readback, and stable NAND response"
+      },
+      {
+        "physical_bit_error_probability": 0.05,
+        "mode": "calibrated_majority",
+        "repeats": 31,
+        "effective_logical_bit_error_probability": 2.227452365536822e-13,
+        "logical_queries": 1047954,
+        "raw_output_readouts": 32486574,
+        "family_wise_union_bound": 2.3342676162737747e-07,
+        "required_bound": 1e-06,
+        "circuits": 122,
+        "gates": 8947,
+        "correct_decoded_pairs": 8947,
+        "wrong_decoded_pairs": 0,
+        "rejected_gates": 0,
+        "whole_exact_circuits": 122,
+        "locally_model_consistent_circuits": 122,
+        "effective_readout_errors_sampled": 0,
+        "simulation": "exact equivalent IID channel after majority; no explicit repeated raw draws",
+        "assumptions": "known IID p; perfect actuation, readback, and stable NAND response"
+      },
+      {
+        "physical_bit_error_probability": 0.1,
+        "mode": "single_read",
+        "repeats": 1,
+        "effective_logical_bit_error_probability": 0.1,
+        "logical_queries": 1047954,
+        "raw_output_readouts": 1047954,
+        "family_wise_union_bound": 1.0,
+        "required_bound": null,
+        "circuits": 122,
+        "gates": 8947,
+        "correct_decoded_pairs": 4,
+        "wrong_decoded_pairs": 18,
+        "rejected_gates": 8925,
+        "whole_exact_circuits": 0,
+        "locally_model_consistent_circuits": 0,
+        "effective_readout_errors_sampled": 104781,
+        "simulation": "exact equivalent IID channel after majority; no explicit repeated raw draws",
+        "assumptions": "known IID p; perfect actuation, readback, and stable NAND response"
+      },
+      {
+        "physical_bit_error_probability": 0.1,
+        "mode": "calibrated_majority",
+        "repeats": 49,
+        "effective_logical_bit_error_probability": 5.612342700839176e-13,
+        "logical_queries": 1047954,
+        "raw_output_readouts": 51349746,
+        "family_wise_union_bound": 5.881476982715218e-07,
+        "required_bound": 1e-06,
+        "circuits": 122,
+        "gates": 8947,
+        "correct_decoded_pairs": 8947,
+        "wrong_decoded_pairs": 0,
+        "rejected_gates": 0,
+        "whole_exact_circuits": 122,
+        "locally_model_consistent_circuits": 122,
+        "effective_readout_errors_sampled": 0,
+        "simulation": "exact equivalent IID channel after majority; no explicit repeated raw draws",
+        "assumptions": "known IID p; perfect actuation, readback, and stable NAND response"
+      }
+    ]
+  },
+  "wall_seconds": 9.18098837599996
+}
